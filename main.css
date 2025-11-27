@@ -1,0 +1,30 @@
+
+body{
+    font-size: 20px;
+    background-color: #ffefd5;
+    color: #112A46;
+}
+h1,h2,h3{
+    text-align: center;
+    color: #D2691E;
+}
+p{
+    
+    line-height: 1.6;
+    margin: 20px;
+    
+}
+.name{
+    width: 100px;
+    border-radius:5rem;
+    background-color: #112A46;
+    color: #ffffff;
+}
+.reviews{
+    background-color: #112A46;
+    color: #ffffff;
+}
+table{
+    padding: 10px;
+}
+
